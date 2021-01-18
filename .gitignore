@@ -6,4 +6,3 @@ cdk.context.json
 .DS_Store
 cdk.context.*
 .env
-node_modules
